@@ -1,0 +1,22 @@
+# Tic-Tac-Toe  
+
+## Description  
+
+Tic-Tac-Toe is a classic and timeless game enjoyed by people of all ages. This web-based version allows two players to compete against each other in a simple yet engaging atmosphere. The game is played on a 3x3 grid where players alternate turns placing their symbols: X or O.  
+
+### How to Play  
+
+1. *Objective*: The goal is to be the first player to get three of your marks in a row—either horizontally, vertically, or diagonally.  
+2. *Starting the Game*: Players take turns clicking on empty cells in the grid to place their symbol.  
+3. *Winning the Game*: The game automatically checks for winning combinations after each turn. If a player achieves three in a row, a message will display declaring that player the winner.  
+4. *Draw Condition*: If all cells are filled without a winner, the game declares a draw.  
+5. *Resetting the Game*: After a game ends, you can reset it with the click of a button, allowing for continuous play.  
+
+### Features  
+
+- *Two-Player Mode*: This version is designed for two players, making it an excellent choice for friendly competition.  
+- *Player Indicator*: The game visually indicates which player's turn it is, enhancing gameplay clarity.  
+- *Responsive Design*: The game adapts to different screen sizes, ensuring an enjoyable experience on both desktop and mobile devices.  
+- *Clean User Interface*: The design is simple and intuitive, making it easy for anyone to pick up and play without prior learning.  
+
+This game captures the essence of the traditional Tic-Tac-Toe experience while providing the convenience of playing online. Whether you're playing with a friend or just passing the time, this Tic-Tac-Toe web app is a great way to enjoy a quick and fun game!
